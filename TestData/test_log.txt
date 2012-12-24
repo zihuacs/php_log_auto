@@ -1,0 +1,10 @@
+src_file:DB.class.php.txt$$log_line:174$$grand_parent:Stmt_Class$$parent:Stmt_ClassMethod$$current:Expr_Assign##Stmt_For##Expr_Assign##Stmt_Return##$$log_index:2$$log_score:4
+src_file:DB.class.php.txt$$log_line:122$$grand_parent:Stmt_ClassMethod$$parent:Stmt_If$$current:Stmt_Return##$$log_index:-1$$log_score:1
+src_file:DB.class.php.txt$$log_line:153$$grand_parent:Stmt_For$$parent:Stmt_If$$current:Expr_Assign##Expr_Assign##Expr_Assign##Stmt_Unset##Expr_FuncCall##Stmt_Continue##$$log_index:2$$log_score:6
+src_file:DB.class.php.txt$$log_line:245$$grand_parent:Stmt_ClassMethod$$parent:Stmt_If$$current:Expr_Assign##$$log_index:0$$log_score:1
+src_file:DB.class.php.txt$$log_line:273$$grand_parent:Stmt_ClassMethod$$parent:Stmt_If$$current:Expr_Assign##Stmt_Return##$$log_index:0$$log_score:2
+src_file:DB.class.php.txt$$log_line:314$$grand_parent:Stmt_ClassMethod$$parent:Stmt_If$$current:Expr_Assign##Stmt_Return##$$log_index:0$$log_score:2
+src_file:DB.class.php.txt$$log_line:356$$grand_parent:Stmt_ClassMethod$$parent:Stmt_If$$current:Expr_Assign##Stmt_Return##$$log_index:0$$log_score:2
+src_file:Socket.class.php.txt$$log_line:54$$grand_parent:Stmt_Class$$parent:Stmt_ClassMethod$$current:Stmt_If##Expr_FuncCall##Stmt_Foreach##Stmt_Return##$$log_index:2$$log_score:4
+src_file:Socket.class.php.txt$$log_line:52$$grand_parent:Stmt_ClassMethod$$parent:Stmt_Foreach$$current:Expr_Assign##Expr_Assign##Stmt_If##$$log_index:2$$log_score:3
+src_file:Socket.class.php.txt$$log_line:49$$grand_parent:Stmt_Foreach$$parent:Stmt_If$$current:Stmt_If##Stmt_If##Expr_Assign##Stmt_Return##$$log_index:2$$log_score:4
