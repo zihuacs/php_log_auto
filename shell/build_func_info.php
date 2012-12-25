@@ -54,7 +54,7 @@ class BuildFuncInfo {
         print '<a href="ShowSrcFile.php">SrcFile</a>';
         print '</p>';
         print '<div style="position:absolute; top:0; left:0;"><a style="text-decoration: none;" href="admin">&nbsp;&nbsp;</a></div>';
-        print '<h1 align="center">Php Src SyntaxTree</h1>';
+        print '<h1 align="center">Php Src FuncInfo</h1>';
 
     }
     public function show_begin() {
