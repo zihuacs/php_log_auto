@@ -7,7 +7,6 @@
  * @author		zhaoshunyao <zhaoshunyao@baidu.com>
  * @since		2011-06-10
  */
-
 class Dapper_Model_DB
 {
 	private $_mysqli = null;
